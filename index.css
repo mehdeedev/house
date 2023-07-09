@@ -3,6 +3,13 @@
     --door-color: #e46313;
 }
 
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .house {
     display: flex;
     flex-direction: column;
